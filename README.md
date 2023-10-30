@@ -26,3 +26,39 @@ This project is a heart disease prediction system using machine learning. It ana
   ```bash
   git clone https://github.com/Abdoo50/Heart-Disease-Prediction.git
   cd Heart-Disease-Prediction
+  ```
+
+- Install the required dependencies:
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+## Usage
+
+- Run the Jupyter Notebook `heart-failure-prediction.ipynb` for a detailed walkthrough of the project.
+
+## Features
+
+- Predicts heart disease risk based on various health parameters.
+- Utilizes machine learning for accurate predictions.
+- Provides a comprehensive analysis of the prediction model.
+
+## Data
+
+The dataset used in this project can be found in the `data` folder. It includes a CSV file containing the necessary health parameters.
+
+## Model
+
+The predictive model is created using machine learning techniques. The details of the model and its training process can be found in the Jupyter Notebook.
+
+## Contributing
+
+We welcome contributions from the community. If you have suggestions or would like to report issues, please open a GitHub issue.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+Please make sure to replace the placeholders with actual information, such as the live demo link (if applicable), data source information, and details about the model used for prediction. You can also include any additional sections that you find relevant for your project.
