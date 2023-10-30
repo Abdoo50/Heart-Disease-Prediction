@@ -58,7 +58,4 @@ We welcome contributions from the community. If you have suggestions or would li
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-Please make sure to replace the placeholders with actual information, such as the live demo link (if applicable), data source information, and details about the model used for prediction. You can also include any additional sections that you find relevant for your project.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://www.kaggle.com/code/abdoashour/heart-failure-prediction)https://www.kaggle.com/code/abdoashour/heart-failure-prediction) file for details.
