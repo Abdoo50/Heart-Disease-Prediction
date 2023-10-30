@@ -36,11 +36,4 @@ If you want to contribute to this project, you can fork this repository and make
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details..
-
-Source: Conversation with Bing, 10/30/2023
-(1) How to Write a Good README File for Your GitHub Project - freeCodeCamp.org. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(2) About READMEs - GitHub Docs. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes.
-(3) Create a repo - GitHub Docs. https://docs.github.com/en/get-started/quickstart/create-a-repo.
-(4) Managing your profile README - GitHub Docs. https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme.
-(5) Create a ReadMe File in Git: Free Git Tutorial - Noble Desktop. https://www.nobledesktop.com/learn/git/create-a-readme-file.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
